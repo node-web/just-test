@@ -15,5 +15,13 @@ http://www.open-open.com/lib/view/open1391348142176.html
 
 node-webkit相关下载： https://github.com/rogerwang/node-webkit
 
-windows 打包相关
+
+
+windows 打包工具：
+
+![](https://raw.githubusercontent.com/node-web/just-test/master/tools/for-windows/enigma-virtual-box.jpg)
+
+
+windows 打包包含文件：
+
 ![](https://raw.githubusercontent.com/node-web/just-test/master/tools/for-windows/pkg-include.png)
