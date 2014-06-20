@@ -28,4 +28,4 @@ windows 打包包含文件：
 
 node web-kit 托盘
 
-![](https://github.com/rogerwang/node-webkit/wiki/Tray)
+[](https://github.com/rogerwang/node-webkit/wiki/Tray)
