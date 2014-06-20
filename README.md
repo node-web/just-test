@@ -26,6 +26,5 @@ windows 打包包含文件：
 
 ![](https://raw.githubusercontent.com/node-web/just-test/master/tools/for-windows/pkg-include.png)
 
-node web-kit 托盘
 
-[](https://github.com/rogerwang/node-webkit/wiki/Tray)
+[node web-kit 托盘](https://github.com/rogerwang/node-webkit/wiki/Tray)
